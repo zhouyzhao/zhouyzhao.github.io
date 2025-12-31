@@ -83,6 +83,15 @@
   </url>
   
   <url>
+    <loc>http://zhaolife.com/2015/10/03/macao/</loc>
+    
+    <lastmod>2024-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://zhaolife.com/2023/02/09/luzaihefang/</loc>
     
     <lastmod>2024-02-08</lastmod>
@@ -182,15 +191,6 @@
   </url>
   
   <url>
-    <loc>http://zhaolife.com/2015/10/03/macao/</loc>
-    
-    <lastmod>2023-01-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://zhaolife.com/2015/06/01/markdown/</loc>
     
     <lastmod>2023-01-25</lastmod>
@@ -232,14 +232,14 @@
   </url>
   
   <url>
-    <loc>http://zhaolife.com/tags/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/</loc>
+    <loc>http://zhaolife.com/tags/%E5%91%A8%E6%8A%A5/</loc>
     <lastmod>2025-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://zhaolife.com/tags/%E5%91%A8%E6%8A%A5/</loc>
+    <loc>http://zhaolife.com/tags/%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5/</loc>
     <lastmod>2025-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
